@@ -1,6 +1,6 @@
 {
-  "name": "lnlink-mcp-service",
-  "version": "1.0.2",
+  "name": "@lnfi-network/lnlink-mcp-service",
+  "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
   "type": "module",
